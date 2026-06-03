@@ -1,0 +1,14 @@
+pyrogram==2.0.97
+tgcrypto
+requests
+yt-dlp
+aiohttp
+pytz
+redis
+hijri_converter
+pillow
+mutagen
+kvsqlite
+python-arq
+aiofiles
+httpx
